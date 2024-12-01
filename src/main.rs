@@ -4,7 +4,7 @@ mod utils;
 use days::{day_one::day_one, day_two::day_two};
 
 fn main() {
-    let run = 2;
+    let run = 1;
 
     match run {
         1 => day_one::main(),
